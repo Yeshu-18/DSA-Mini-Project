@@ -1,1 +1,1 @@
-# DSA-Mini-Project
+# DSA-MINI-PROJECT
